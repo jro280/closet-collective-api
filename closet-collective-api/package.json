@@ -1,0 +1,7 @@
+{
+  "name": "closet-collective-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Closet Collective API — eBay OAuth + listing serverless functions (Vercel).",
+  "engines": { "node": "20.x" }
+}
